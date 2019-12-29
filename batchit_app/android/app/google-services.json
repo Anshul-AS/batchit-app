@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591615141232",
+    "firebase_url": "https://bat-chit-app-back-end.firebaseio.com",
+    "project_id": "bat-chit-app-back-end",
+    "storage_bucket": "bat-chit-app-back-end.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591615141232:android:b83e6f420626f2c716dbb5",
+        "android_client_info": {
+          "package_name": "com.winterintern.batchit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591615141232-ahmk01qvbrsdiv2nnd5nek8t0vd3ccdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyl7o_IoWpXiwpXqdwO__n6BImq97DII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591615141232-ahmk01qvbrsdiv2nnd5nek8t0vd3ccdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
